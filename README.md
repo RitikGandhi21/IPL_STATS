@@ -1,6 +1,6 @@
 # IPL_STATS
-# IPL_stats
-The project is about a website that is made for people who are cricket enthusiasts and people looking to debate each other on who’s a better player or a team. The website displays ball by ball (granularity of the data) player statistics and gives it in the form the user wants, be it searching for specific players, or teams, or simply team statistics, balling statistics, batting statistics, the top players in each aspect, and a lot more. The database design is robust with the appropriate constraints and triggers, so that users can add data as well.
+
+The project is a one stop solution for cricket enthusiasts and people looking to debate each other on who’s a better player or a team. The website displays ball by ball (granularity of the data) player statistics and gives it in the form the user wants, be it searching for specific players, or teams, or simply team statistics, balling statistics, batting statistics, the top players in each aspect, and a lot more. The database design is robust with the appropriate constraints and triggers, so that users can add data as well.
 
 ### Data Source : https://www.kaggle.com/raghu07/ipl-data-till-2017
 
@@ -36,7 +36,5 @@ The data source contains the data of all IPL seasons from 2008 to 2017 on a ball
 * ### Foreign Keys
 > Foreign keys have been defined in each of the tables for appropriate inter-linking between different tables.
 
-## E-R Diagram:
- ![E-R Diagram](https://github.com/vinayak1998/IPL_stats/blob/master/Project/ER-diagram.jpeg)
 
 
